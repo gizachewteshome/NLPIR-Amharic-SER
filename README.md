@@ -7,8 +7,9 @@ from transformers import AutoProcessor, Wav2Vec2ForSpeechClassification
 processor = AutoProcessor.from_pretrained("Gizachew/wev2vec-base960-agu-amharic")
 model = Wav2Vec2ForSpeechClassification.from_pretrained("Gizachew/wev2vec-base960-agu-amharic")
 
-Wev2Vec2.0-base: https://huggingface.co/Gizachew/wev2vec-base960-agu-amharic
-Wev2Vec2.0-large: https://huggingface.co/Gizachew/wev2vec-large960-agu-amharic 
+
+Wev2Vec2.0-base: https://huggingface.co/Gizachew/wev2vec-base960-agu-amharic \\
+Wev2Vec2.0-large: https://huggingface.co/Gizachew/wev2vec-large960-agu-amharic \\
 
 HuBERT:
 # Load model directly
