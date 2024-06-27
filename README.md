@@ -1,5 +1,8 @@
+This is for course project on Fine-tuning Pre-trained models for Amharic Speech Emotion Recogntion.
+The model is a fine-tuned version of Wev2Vec2.0 and HuBERT base & large vesrion on the ASED dataset.
 
 To use fine-tuned Amharic SER model:
+
 Wev2Vec2.0:
 # Load model directly
 from transformers import AutoProcessor, Wav2Vec2ForSpeechClassification
