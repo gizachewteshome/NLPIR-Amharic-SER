@@ -1,4 +1,4 @@
-This is for course project on Fine-tuning Pre-trained models for Amharic Speech Emotion Recogntion.
+This is NLPIR course project on Fine-tuning Pre-trained models for Amharic Speech Emotion Recogntion.
 The model is a fine-tuned version of Wev2Vec2.0 and HuBERT base & large vesrion on the ASED dataset.
 
 To use fine-tuned Amharic SER model:
